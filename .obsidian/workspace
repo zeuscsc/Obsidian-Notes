@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "045cd953b1d69fcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5578e227e0e72b9e",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e4dae6b7597b2d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "180bca0e03c0738a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6627baff41677ab8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea4aa0cd35e6c3cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hid",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ff8942c1a5020de",
+    "type": "split",
+    "children": [
+      {
+        "id": "76c73736ef470b9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abf4f97dcd2b87e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f6cc35d09d08fe4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5578e227e0e72b9e",
+  "lastOpenFiles": [
+    "Relational Database/Relationsal Database ManagementSystem.md",
+    "Relational Database/Relational Database.md",
+    "Others/Fungibility.md",
+    "Others/Others.md",
+    "Crypto/Crypto.md",
+    "Computer Vision/Computer Vision.md",
+    "Computer Science Algorithm/Computer Science Algorithm.md",
+    "Audio/Audio.md",
+    "Computer Vision/Sound Source Localization.md",
+    "Computer Vision/Image segmentation.md"
+  ]
+}

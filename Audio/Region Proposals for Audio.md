@@ -1,0 +1,1 @@
+[STRUCTURAL SEGMENTATION OF MUSICAL AUDIO WITH REGION PROPOSAL NETWORKS](https://archives.ismir.net/ismir2021/latebreaking/000055.pdf)

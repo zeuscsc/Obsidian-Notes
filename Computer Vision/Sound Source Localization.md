@@ -1,0 +1,1 @@
+[A Proposal-Based Paradigm for Self-Supervised Sound Source Localization in Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Xuan_A_Proposal-Based_Paradigm_for_Self-Supervised_Sound_Source_Localization_in_Videos_CVPR_2022_paper.pdf)

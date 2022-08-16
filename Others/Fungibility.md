@@ -1,0 +1,2 @@
+In economics, fungibility is the property of a good or a commodity whose individual units are essentially interchangeable and each of whose parts is indistinguishable from another part. Fungible tokens are the ones that can be exchanged or replaced; for example, a $100 note can easily be exchanged for twenty $5 bills.
+![[Pasted image 20220816115340.png]]

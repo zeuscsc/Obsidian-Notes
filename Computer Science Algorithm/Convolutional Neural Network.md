@@ -1,0 +1,3 @@
+# Definition
+In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of Artificial Neural Network (ANN), most commonly applied to analyze visual imagery. They are also known as Shift Invariant or Space Invariant Artificial Neural Networks (SIANN), based on the shared-weight architecture of the convolution kernels or filters that slide along input features and provide translation equivariant responses known as feature maps.
+![[Pasted image 20220328225335.png]]

@@ -12,7 +12,7 @@ It is my portfolio site/maze.  You can type [help] for start
 ### Some projects created by me
 #### Drums Music Nodes Extractor
 Recreate drum nodes from music audio for drum players practice.
-[![Drums Music Nodes Extractor](https://img.youtube.com/vi/RJ6luQch6wI/0.jpg)][https://youtu.be/RJ6luQch6wI]
+[![Drums Music Nodes Extractor](https://img.youtube.com/vi/RJ6luQch6wI/0.jpg)]([)https://youtu.be/RJ6luQch6wI)
 
 #### 留聲語城大實試
 [![留聲語城大實試](https://img.youtube.com/vi/SXyY89qNsKg/0.jpg)](https://youtu.be/SXyY89qNsKg)

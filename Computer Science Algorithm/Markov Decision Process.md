@@ -1,0 +1,3 @@
+![[Pasted image 20221018220613.png]]
+In mathematics, a [[Markov Decision Process]] ([[Markov Decision Process|MDP]]) is a discrete-time stochastic control process. It provides a mathematical framework for modeling decision making in situations where outcomes are partly random and partly under the control of a decision maker. [[Markov Decision Process|MDPs]] are useful for studying optimization problems solved via dynamic programming. 
+[[Markov Decision Process]] are an extension of [[Markov Chain]]; the difference is the addition of actions (allowing choice) and rewards (giving motivation). Conversely, if only one action exists for each state (e.g. "wait") and all rewards are the same (e.g. "zero"), a Markov decision process reduces to a [[Markov Chain]].

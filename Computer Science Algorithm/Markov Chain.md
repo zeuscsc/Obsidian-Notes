@@ -8,7 +8,7 @@ Lets start by an example.  This is the weather recorded in [Zeus's Secret Base](
 
 From the [[Markov Chain]] above, we know that if today is rainy, there will be a 50% chance tomorrow will also be rainy, and 20% chance tomorrow will be sunny, and 30% chance tomorrow will be cloudy.  The same goes for cloudy and sunny day.
 
-Here is the transition matrix:
+Here is the [[transition matrix]]:
 $\begin{bmatrix}0.5 & 0.3 & 0.2 \\0.4 & 0.2 & 0.4 \\0.0 & 0.3 & 0.7 \\\end{bmatrix}$ $\begin{bmatrix}\text{Today Rainy tomorrow Rainy} & \text{Today Rainy tomorrow Cloudy} & \text{Today Rainy tomorrow Sunny} \\\text{Today Cloudy tomorrow Rainy} & \text{Today Cloudy tomorrow Cloudy} & \text{Today Cloudy tomorrow Sunny} \\\text{Today Sunny tomorrow Rainy} & \text{Today Sunny tomorrow Cloudy} & \text{Today Sunny tomorrow Sunny} \\\end{bmatrix}$ 
 You can get this graph / matrix either by observation or [[Monte Carlo]] method.  
 

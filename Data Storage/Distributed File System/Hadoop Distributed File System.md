@@ -1,0 +1,3 @@
+HDFS stands for Hadoop Distributed File System. **HDFS operates as a distributed file system** designed to run on commodity hardware. HDFS is fault-tolerant and designed to be deployed on low-cost, commodity hardware.
+
+The **main difference** between [[Apache Hadoop|Hadoop]] and [[Hadoop Distributed File System|HDFS]] is that the **Hadoop is** **an open source framework that helps to store, process and analyze a large volume of data while the HDFS is the distributed file system of Hadoop that provides high throughput access to application data.**

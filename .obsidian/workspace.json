@@ -4,31 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "6deafef2df11ac59",
+        "id": "ee0c48abc06a7533",
         "type": "tabs",
         "children": [
           {
-            "id": "5578e227e0e72b9e",
+            "id": "8e808dec0eb0200a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science Algorithm/Markov Decision Process.md",
+                "file": "Computer Science Algorithm/Consistent Hashing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6523800461e73879",
+            "id": "eb4dee37429b73a0",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.504695892334
   },
   "right": {
     "id": "4ff8942c1a5020de",
@@ -86,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science Algorithm/Consistent Hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,31 +102,40 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Computer Science Algorithm/Consistent Hashing.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes": false
+    }
   },
-  "active": "6523800461e73879",
+  "active": "8e808dec0eb0200a",
   "lastOpenFiles": [
+    "Scale Out.md",
+    "Computer Science Algorithm/Consistent Hashing.md",
+    "Computer Science Algorithm/Hidden Markov Model.md",
+    "Data Storage/Relational Database/Deadlock.md",
+    "Computer Science Algorithm/Transition matrix.md",
     "Computer Science Algorithm/Markov Chain.md",
-    "Computer Science Algorithm/Markov Decision Process.md",
-    "Computer Science Algorithm/Q-Learning.md",
-    "Computer Science Algorithm/Minimax algorithm.md",
-    "assets/Pasted image 20221018220515.png",
-    "README.md",
-    "Audio/Region Proposals for Audio.md",
-    "Audio/Auto Encoder & Decoder.md",
-    "Relational Database/Relationsal Database ManagementSystem.md",
-    "Relational Database/Relational Database.md"
+    "Computer Science Algorithm/Linked List.md",
+    "Computer Science Algorithm/Hash Table.md",
+    "assets/Pasted image 20230104111627.png",
+    "Data Storage/Relational Database/Snapshot Isolation.md"
   ]
 }

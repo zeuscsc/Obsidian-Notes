@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Audio",
@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "path:\"Relational Database\"",
+      "query": "path:\"Data Storage\"",
       "color": {
         "a": 1,
         "rgb": 6084269
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7478537827650167,
+  "scale": 0.7478537827650106,
   "close": true
 }

@@ -1,0 +1,5 @@
+The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-availability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-available service on top of a cluster of computers, each of which may be prone to failures.
+
+The **main difference** between [[Apache Hadoop|Hadoop]] and [[Hadoop Distributed File System|HDFS]] is that the **Hadoop is** **an open source framework that helps to store, process and analyze a large volume of data while the HDFS is the distributed file system of Hadoop that provides high throughput access to application data.**
+
+Hadoop is an open-source software suite mainly written in Java used to handle large data and computation across networks of computers. It was first released in 2006 as a subproject of Nutch and is now part of the Apache Foundation.

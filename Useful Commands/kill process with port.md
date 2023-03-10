@@ -1,0 +1,1 @@
+sudo kill -9 $(sudo lsof -t -i :7860 | sudo awk '{print $1}')

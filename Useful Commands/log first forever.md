@@ -1,0 +1,1 @@
+tail -f $(forever list | awk 'NR==3{gsub(/\033\[[0-9;]*m/,"",$8); print $8}')

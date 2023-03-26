@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee0c48abc06a7533",
+        "id": "0b757981ebcb4a75",
         "type": "tabs",
         "children": [
           {
-            "id": "8e808dec0eb0200a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science Algorithm/Consistent Hashing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb4dee37429b73a0",
+            "id": "5ef35422ca053494",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science Algorithm/Consistent Hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science Algorithm/Consistent Hashing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,10 +112,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "8e808dec0eb0200a",
+  "active": "5ef35422ca053494",
   "lastOpenFiles": [
-    "Scale Out.md",
     "Computer Science Algorithm/Consistent Hashing.md",
+    "Scale Out.md",
     "Computer Science Algorithm/Hidden Markov Model.md",
     "Data Storage/Relational Database/Deadlock.md",
     "Computer Science Algorithm/Transition matrix.md",

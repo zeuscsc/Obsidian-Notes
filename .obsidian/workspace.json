@@ -116,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -132,7 +133,7 @@
       "publish:Publish changes": false
     }
   },
-  "active": "abf4f97dcd2b87e1",
+  "active": "ea077e174032571b",
   "lastOpenFiles": [
     "Computer Vision/Histogram of Oriented Gradients.md",
     "Computer Vision/Image segmentation.md",

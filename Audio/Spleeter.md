@@ -1,4 +1,4 @@
-While not a broadly known topic, the problem of source separation has interested a large community of music signal researchers for a couple of decades now. It starts from a simple observation: music recordings are usually a mix of several individual instrument tracks (lead vocal, drums, bass, piano etc..). The task of music source separation is: given a mix can we recover these separate tracks (sometimes called _stems_)? This has many potential applications: think remixes, upmixing, active listening, educational purposes, but also pre-processing for other tasks such as transcription.
+While not a broadly known topic, the problem of source separation has interested a large community of music signal researchers for a couple of decades now. It starts from a simple observation: music recordings are usually a mix of several individual instrument tracks (lead vocal, drums, bass, piano etc..). The task of [[music source separation]] is: given a mix can we recover these separate tracks (sometimes called _stems_)? This has many potential applications: think remixes, upmixing, active listening, educational purposes, but also pre-processing for other tasks such as transcription.
 ![[Pasted image 20220729154150.png]]
 Interestingly, our brain is very good at isolating instruments. Just focus on one of the instrument of [this track](https://www.deezer.com/track/2124880) (say the lead vocal for instance) and you will be able to _hear_ it quite distinctively from the others. Yet that’s not really separation, you still hear all the other parts. In many cases, it may not be possible to exactly recover the individual tracks that have been mixed together. The challenge is thus to approximate them the best we can, that is to say as close as possible to the originals without creating too much distortions.
 
@@ -43,7 +43,7 @@ That being said, happy hacking everyone!
   number = {50},
   pages = {2154},
   author = {Romain Hennequin and Anis Khlif and Felix Voituret and Manuel Moussallam},
-  title = {Spleeter: a fast and efficient music source separation tool with pre-trained models},
+  title = {Spleeter: a fast and efficient [[music source separation]] tool with pre-trained models},
   journal = {Journal of Open Source Software},
   note = {Deezer Research}
 }

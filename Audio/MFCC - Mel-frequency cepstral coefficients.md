@@ -1,4 +1,4 @@
-**Mel-frequency cepstral coefficients** (MFCCs) are coefficients that collectively make up an MFC. They are derived from a type of cepstral representation of the audio clip (a nonlinear "spectrum-of-a-spectrum").
+**Mel-frequency cepstral coefficients** (MFCCs) are coefficients that collectively make up an MFC. They are derived from a type of cepstral representation of the [[audio]] clip (a nonlinear "spectrum-of-a-spectrum").
 
 ![[Pasted image 20220328224854.png]]
 

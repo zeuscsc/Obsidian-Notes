@@ -1,0 +1,2 @@
+Base on the notes in /Crypto/ , create a summary for Cypto
+Based on your notes, Crypto refers to the field of [[cryptography]] and its applications in the world of digital currencies and decentralized systems. It includes topics such as cryptocurrencies like [[Bitcoin]] and [[Zcash]], zero-knowledge proofs, [[blockchain]] technology, and non-fungible tokens (NFTs). Crypto is a rapidly evolving field with many exciting developments and innovations.

@@ -29,4 +29,4 @@ Using 100 sine waves we get **sin(x)+sin(3x)/3+sin(5x)/5 + ... + sin(199x)/199*
 
 ### But what about the real world?
 In real world, the sound wave won't last forever.
-That's why people use [[Fourier transform | (Continuous) Fourier transform]] to transform the continuous waves to wave that have a limited time.  That also mean we can use the [[Fourier transform]] to make the limited sound wave analysis with [[Fourier series]].  If the input audio is [[Types of Audio#Digital Audio|Digital]] not [[Types of Audio#Analog Audio|Analog]], then we can use the [[Short-time Fourier transform (Discrete-time Fourier transform)]] to process digital audio.  
+That's why people use [[Fourier transform | (Continuous) Fourier transform]] to transform the continuous waves to wave that have a limited time.  That also mean we can use the [[Fourier transform]] to make the limited sound wave analysis with [[Fourier series]].  If the input [[audio]] is [[Types of Audio#Digital Audio|Digital]] not [[Types of Audio#Analog Audio|Analog]], then we can use the [[Short-time Fourier transform (Discrete-time Fourier transform)]] to process digital [[audio]].  

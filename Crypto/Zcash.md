@@ -1,1 +1,1 @@
-Zcash is a [[Cryptocurrency]] aimed at using [[Cryptography]] to provide enhanced privacy for its users compared to other cryptocurrencies such as Bitcoin.
+Zcash is a [[Cryptocurrency]] aimed at using [[Cryptography]] to provide enhanced privacy for its users compared to other cryptocurrencies such as [[Bitcoin]].

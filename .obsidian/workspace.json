@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ef35422ca053494",
+            "id": "0cac05b554a51e29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science Algorithm/Bézier Curves.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -53,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -65,7 +68,7 @@
     "type": "split",
     "children": [
       {
-        "id": "76c73736ef470b9c",
+        "id": "fe9d6df1b6c03337",
         "type": "tabs",
         "children": [
           {
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science Algorithm/Bézier Curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,13 +94,29 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science Algorithm/Bézier Curves.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "ea077e174032571b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0e6181899ee830c",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,17 +132,34 @@
       "publish:Publish changes": false
     }
   },
-  "active": "5ef35422ca053494",
+  "active": "abf4f97dcd2b87e1",
   "lastOpenFiles": [
-    "Computer Science Algorithm/Consistent Hashing.md",
-    "Scale Out.md",
+    "Computer Vision/Histogram of Oriented Gradients.md",
+    "Computer Vision/Image segmentation.md",
+    "Computer Vision/Visual descriptor.md",
+    "[audio.md",
+    "Audio.md",
     "Computer Science Algorithm/Hidden Markov Model.md",
-    "Data Storage/Relational Database/Deadlock.md",
-    "Computer Science Algorithm/Transition matrix.md",
+    "Tensorflow Speech Recognition.md",
+    "README.md",
+    "Data Storage.md",
+    "Crypto.md",
+    "Computer Science Algorithm.md",
     "Computer Science Algorithm/Markov Chain.md",
-    "Computer Science Algorithm/Linked List.md",
-    "Computer Science Algorithm/Hash Table.md",
-    "assets/Pasted image 20230104111627.png",
-    "Data Storage/Relational Database/Snapshot Isolation.md"
+    "Computer Vision.md",
+    "Tools/Visual Studio Code.md",
+    "Tools/SNYK VS Code extension.md",
+    "Others/Fungibility.md",
+    "Data Storage/Database.md",
+    "Data Storage/Relational Database/Relationsal Database ManagementSystem.md",
+    "Data Storage/Relational Database/Multi-Version Concurrency Control (MVCC).md",
+    "Data Storage/Relational Database/Snapshot Isolation.md",
+    "Data Storage/Relational Database/Deadlock.md",
+    "Data Storage/Relational Database/Data consistency and concurrency.md",
+    "Data Storage/Non Relational Database/NoSQL.md",
+    "Data Storage/Non Relational Database/MongoDB.md",
+    "Data Storage/Distributed File System/Hadoop Distributed File System.md",
+    "Data Storage/Distributed File System/Apache Hadoop.md",
+    "assets/Pasted image 20230104111627.png"
   ]
 }

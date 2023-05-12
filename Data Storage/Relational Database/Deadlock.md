@@ -4,8 +4,8 @@ A deadlock is a situation in which two computer programs sharing the same resour
 ![[Pasted image 20220725214424.png]]
 
 ### What it have to do with [[Relationsal Database ManagementSystem]]
-In a database, a deadlock is an unwanted situation in which two or more transactions are waiting indefinitely for one another to give up locks. Deadlock is said to be one of the most feared complications in DBMS as it brings the whole system to a Halt. 
-When you tries to insert or update data on database, sometime your record need to depend on the row record.  For example, when you insert the data with a auto increase id, both thansaction can't insert the same time or the data cannot keep its [[Data consistency and concurrency|consistency and concurrency]].  One way to keep the [[Data consistency and concurrency]] is to use [[Multi-Version Concurrency Control (MVCC)]] model but that could create another problem which is [[Deadlock]].
+In a [[database]], a deadlock is an unwanted situation in which two or more transactions are waiting indefinitely for one another to give up locks. Deadlock is said to be one of the most feared complications in DBMS as it brings the whole system to a Halt. 
+When you tries to insert or update data on [[database]], sometime your record need to depend on the row record.  For example, when you insert the data with a auto increase id, both thansaction can't insert the same time or the data cannot keep its [[Data consistency and concurrency|consistency and concurrency]].  One way to keep the [[Data consistency and concurrency]] is to use [[Multi-Version Concurrency Control (MVCC)]] model but that could create another problem which is [[Deadlock]].
 
 
 

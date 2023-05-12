@@ -1,1 +1,1 @@
-Transition matrix may refer to: **The matrix associated with a change of basis for a vector space**. Stochastic matrix, a square matrix used to describe the transitions of a Markov chain. State-transition matrix, a matrix whose product with the state vector. at an initial time.
+Transition matrix may refer to: **The matrix associated with a change of basis for a vector space**. Stochastic matrix, a square matrix used to describe the transitions of a [[Markov chain]]. State-transition matrix, a matrix whose product with the state vector. at an initial time.

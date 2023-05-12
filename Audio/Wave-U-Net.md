@@ -1,6 +1,8 @@
-The Wave-U-Net is a [[Convolutional Neural Network]] applicable to audio source separation tasks, which works directly on the raw audio waveform, presented in [this paper](https://arxiv.org/abs/1806.03185).
+The Wave-U-Net is a [[convolutional neural network]] designed for [[audio]] source separation tasks that works directly on the raw [[audio]] waveform. It is an adaptation of the [[U-Net convolutional architecture]] to the one-dimensional time domain. The network uses a series of downsampling and upsampling blocks to compute features on multiple scales/levels of abstraction and time resolution, which are then combined to make a prediction. The Wave-U-Net participated in the SiSec separation campaign and achieved good performance despite using a limited dataset compared to other submissions.
 
-The Wave-U-Net is an adaptation of the [[U-Net convolutional architecture]] to the one-dimensional time domain to perform end-to-end audio source separation. Through a series of downsampling and upsampling blocks, which involve 1D convolutions combined with a down-/upsampling process, features are computed on multiple scales/levels of abstraction and time resolution, and combined to make a prediction.
+The Wave-U-Net is a [[Convolutional Neural Network]] applicable to [[audio]] source separation tasks, which works directly on the raw [[audio]] waveform, presented in [this paper](https://arxiv.org/abs/1806.03185).
+
+The Wave-U-Net is an adaptation of the [[U-Net convolutional architecture]] to the one-dimensional time domain to perform end-to-end [[audio]] source separation. Through a series of downsampling and upsampling blocks, which involve 1D convolutions combined with a down-/upsampling process, features are computed on multiple scales/levels of abstraction and time resolution, and combined to make a prediction.
 
 See the diagram below for a summary of the network architecture.
 

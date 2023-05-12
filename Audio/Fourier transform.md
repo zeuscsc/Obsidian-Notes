@@ -8,9 +8,9 @@ which is the inverse transform formula. The complex number, _S_(_f_), conveys b
 ### We know the Wiki now, now what?
 
 **To switch the continuous wave tonon periodic signal only you can do so via fourier transform.**
-In order to find its Fourier series, a periodic function with period RR should be thought of as a function defined on a circle of circumference RR, call it S1RSR1. The Fourier series of the function is then its representation in the basis of L2(S1R)L2(SR1) given by orthonormal eigenfunctions of the Laplace operator.
+In order to find its [[Fourier series]], a periodic function with period RR should be thought of as a function defined on a circle of circumference RR, call it S1RSR1. The [[Fourier series]] of the function is then its representation in the basis of L2(S1R)L2(SR1) given by orthonormal eigenfunctions of the Laplace operator.
 
-If two functions have incommensurate periods, then their sum is nonperiodic, does not descend to a circle of any circumference, and therefore does not have a Fourier series.
+If two functions have incommensurate periods, then their sum is nonperiodic, does not descend to a circle of any circumference, and therefore does not have a [[Fourier series]].
 
 As functions on RR, if they are sufficiently nice, the Fourier transform gives an analogous decomposition, but because there are so many more eigenfunctions of the Laplace operator on RR, the sum is an integral. Compare:
 ![[Pasted image 20220530162235.png]]

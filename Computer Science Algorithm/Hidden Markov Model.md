@@ -34,10 +34,10 @@ After we watch the dice rolled many times, we will know the roll probabilities b
 ![[Roll Probabilities by State.png]]
 
 ## So now we know we can get the most likely event happened, now what?
-The reason I am running into [[Hidden Markov Model|HMM]] is beacuse I am currently researching into [[Speech Recognition]].  Although you can use [[MFCC - Mel-frequency cepstral coefficients|MFCC]] and [[Convolutional Neural Network|CNN]] (Such as [[Tensorflow Speech Recognition]] tutorial) to classify simple audio samples to different commands, but when the speaker have ascent, the regconiation result will very likely be wrong.  To solve that problem, we can use [[Hidden Markov Model|HMM]].
+The reason I am running into [[Hidden Markov Model|HMM]] is beacuse I am currently researching into [[Speech Recognition]].  Although you can use [[MFCC - Mel-frequency cepstral coefficients|MFCC]] and [[Convolutional Neural Network|CNN]] to classify simple [[audio]] samples to different commands, but when the speaker have ascent, the regconiation result will very likely be wrong.  To solve that problem, we can use [[Hidden Markov Model|HMM]].
 
 #### But how?
-When somone say "I go to school by bus", the computer will not know the text yet.  Instead, it will get audio samples like this:
+When somone say "I go to school by bus", the computer will not know the text yet.  Instead, it will get [[audio]] samples like this:
 ![[Pasted image 20220328230432.png]]
 With ascent, "go" could sounds like "no", "I" could be like "a".  Then there could be multiple possibility:
 I go to school by bus,

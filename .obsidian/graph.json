@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 6084269
       }
+    },
+    {
+      "query": "path:\"Technology News\"",
+      "color": {
+        "a": 1,
+        "rgb": 4495332
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.241454389948293,
+  "scale": 1.2414543899482897,
   "close": true
 }

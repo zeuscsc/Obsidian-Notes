@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b757981ebcb4a75",
+        "id": "593d90588fb98d33",
         "type": "tabs",
         "children": [
           {
-            "id": "0cac05b554a51e29",
+            "id": "247369855766c75a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science Algorithm/Bézier Curves.md",
+                "file": "Technology News/Implementing a Denoising Diffusion Model in PyTorch.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "7974faf6904e6e4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science Algorithm/Bézier Curves.md",
+                "file": "Technology News/Implementing a Denoising Diffusion Model in PyTorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,14 +102,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science Algorithm/Bézier Curves.md",
+                "file": "Technology News/Implementing a Denoising Diffusion Model in PyTorch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "ea077e174032571b",
+            "id": "fe17d7015e4ce33d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -109,7 +117,7 @@
             }
           },
           {
-            "id": "a0e6181899ee830c",
+            "id": "5931ed721bcefb4e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -117,50 +125,68 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 378.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "ea077e174032571b",
+  "active": "247369855766c75a",
   "lastOpenFiles": [
-    "Computer Vision/Histogram of Oriented Gradients.md",
-    "Computer Vision/Image segmentation.md",
-    "Computer Vision/Visual descriptor.md",
-    "[audio.md",
-    "Audio.md",
-    "Computer Science Algorithm/Hidden Markov Model.md",
-    "Tensorflow Speech Recognition.md",
-    "README.md",
-    "Data Storage.md",
-    "Crypto.md",
-    "Computer Science Algorithm.md",
-    "Computer Science Algorithm/Markov Chain.md",
-    "Computer Vision.md",
-    "Tools/Visual Studio Code.md",
-    "Tools/SNYK VS Code extension.md",
-    "Others/Fungibility.md",
-    "Data Storage/Database.md",
+    "Technology News/Voice Cloning with Tortoise.md",
+    "Technology News/Stable Vakunia and Vakunia.md",
+    "Technology News/NVIDIA Text-to-Video AI.md",
+    "Technology News/NERF Studio.md",
+    "Technology News/Microsoft AI Voice Cloning.md",
+    "Technology News/Light-Field Neural Rendering.md",
+    "Technology News/Instant NGP.md",
+    "Technology News/LangChain.md",
+    "Technology News/Implementing a Denoising Diffusion Model in PyTorch.md",
+    "snapshots/TA14yYBIRP8/00-05-51.png",
+    "snapshots/TA14yYBIRP8/00-06-27.png",
+    "snapshots/TA14yYBIRP8/00-04-44.png",
+    "snapshots/TA14yYBIRP8/00-05-21.png",
+    "snapshots/TA14yYBIRP8/00-03-35.png",
+    "snapshots/TA14yYBIRP8/00-03-49.png",
+    "snapshots/TA14yYBIRP8/00-03-31.png",
+    "snapshots/TA14yYBIRP8/00-03-20.png",
+    "snapshots/TA14yYBIRP8/00-01-57.png",
+    "snapshots/TA14yYBIRP8/00-01-08.png",
+    "snapshots/TA14yYBIRP8",
+    "snapshots/QeBmeHg8s5Y",
+    "snapshots/NYSWn1ipbgg",
+    "snapshots/nyi3SVxUjOY",
+    "snapshots/F6HSsVIkqIU",
+    "snapshots/D9w8mFDvHsQ",
+    "snapshots/a4Yfz2FxXiY",
+    "snapshots/7SXuFVCIqS4",
+    "snapshots/3A3OuTdsPEk",
+    "snapshots",
+    "Audio/Auto Encoder & Decoder.md",
+    "Computer Science Algorithm/Consistent Hashing.md",
     "Data Storage/Relational Database/Relationsal Database ManagementSystem.md",
-    "Data Storage/Relational Database/Multi-Version Concurrency Control (MVCC).md",
-    "Data Storage/Relational Database/Snapshot Isolation.md",
-    "Data Storage/Relational Database/Deadlock.md",
-    "Data Storage/Relational Database/Data consistency and concurrency.md",
-    "Data Storage/Non Relational Database/NoSQL.md",
-    "Data Storage/Non Relational Database/MongoDB.md",
-    "Data Storage/Distributed File System/Hadoop Distributed File System.md",
-    "Data Storage/Distributed File System/Apache Hadoop.md",
-    "assets/Pasted image 20230104111627.png"
+    "Data Storage/Database.md",
+    "Computer Science Algorithm/Bloom filter.md",
+    "Computer Science Algorithm/Bézier Curves.md",
+    "Computer Science Algorithm/Array.md",
+    "Audio/Fourier series.md",
+    "Audio/Demucs.md",
+    "Audio.md",
+    "Data Storage.md",
+    "Computer Science Algorithm/Transition matrix.md",
+    "Computer Science Algorithm/Hidden Markov Model.md",
+    "Computer Science Algorithm/Hash Function.md",
+    "Computer Science Algorithm/Depth-first search.md",
+    "Computer Science Algorithm/Minimax algorithm.md"
   ]
 }
